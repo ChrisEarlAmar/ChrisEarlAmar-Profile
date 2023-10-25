@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Chris Earl S. Amar, a passionate programmer from Bislig City, Philippines. Welcome to my GitHub profile!
+I'm Chris Earl S. Amar, an entry level programmer from Bislig City, Philippines. Welcome to my GitHub profile!
 
 ## About Me
 
