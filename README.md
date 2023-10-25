@@ -12,7 +12,7 @@ I'm Chris Earl S. Amar, an entry level programmer from Bislig City, Philippines.
 
 ## Skills
 
-- **Programming Languages**: PHP, JS, HTML, CSS
+- **Programming Languages**: PHP, JS
 - **Web Development**: PHP, JS, HTML, CSS
 - **Databases**: MySQl
 - **Other Interests**: React Native, Bootstrap CSS
